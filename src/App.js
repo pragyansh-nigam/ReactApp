@@ -17,7 +17,7 @@ class App extends Component {
                 <Navbar collapseOnSelect bg="light" expand="md" className="mb-3">
                     <LinkContainer to="/">
                         <Navbar.Brand className="font-weight-bold text-muted">
-                            Scratch
+                            Home
                         </Navbar.Brand>
                     </LinkContainer>
                     <Navbar.Toggle />
